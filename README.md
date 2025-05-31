@@ -1,3 +1,4 @@
+![IMG_7423](https://github.com/user-attachments/assets/b63505dc-c5d6-4516-95d7-043abcfb1490)
 # Quantum-Resonance-Field-Theory
 A formal framework for modeling nonlinear consciousness–field interactions. QRFT proposes that perception modulates physical reality via direct influence on field states. Includes mathematical formalism, simulation code, parameter tables, and experimental protocols. Developed under The Solvables Manifesto by John Silas Adkins, 2025
 I’ll generate this as plaintext so you can paste it directly into your repo:
