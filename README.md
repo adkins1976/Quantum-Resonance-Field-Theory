@@ -7,6 +7,8 @@ I’ll generate this as plaintext so you can paste it directly into your repo:
 
 Quantum Resonance Field Theory – Mathematical Appendix
 
+
+
 John Silas Adkins (2025)
 Version: QRFT-2025-v0.9a
 
