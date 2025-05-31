@@ -53,3 +53,7 @@ J(x, t) = \gamma(P) \cdot \nabla I(x, t)
 P(x, t) \leftrightarrow F_{\text{mod}}(x, t)
 	•	Reality and perception co-evolve in nonlinear feedback.
 	•	Future work: Coupled differential solvers, attractor modeling
+
+
+
+🔐 Cryptographic Verification: See `timestamp_hash.txt` for SHA-256 hash of initial release.
